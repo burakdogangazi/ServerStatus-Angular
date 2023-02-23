@@ -4,7 +4,9 @@ import { Component } from '@angular/core';
   selector: 'app-root',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
+  //styles:[]
+  //template :[] bu tanımlarda içeriye kod yazabiliyoruz.
 })
 export class AppComponent {
-  title = 'my-first-app';
+  name = 'Burak';
 }
